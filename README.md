@@ -11,3 +11,17 @@ Also, there are some simple calculations done here like addition, subtraction, m
 
 Have a fun!!
 
+## Features 
+
+- Git Initialization
+- GitHub Repository
+- Branching
+- Merging
+- Calculator Functions
+- Basic Git & GitHub Knowledge 
+## Technologies Used
+
+- Python
+- Git
+- GitHub
+
